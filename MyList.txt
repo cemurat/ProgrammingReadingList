@@ -1,3 +1,6 @@
 Richardson Maturity Model 
 steps toward the glory of REST - Martin Fowler
 https://martinfowler.com/articles/richardsonMaturityModel.html 
+
+How Memory Leaks Happen in a Java Application - Eugen Paraschiv
+https://stackify.com/memory-leaks-java/amp/
