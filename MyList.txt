@@ -4,3 +4,6 @@ https://martinfowler.com/articles/richardsonMaturityModel.html
 
 How Memory Leaks Happen in a Java Application - Eugen Paraschiv
 https://stackify.com/memory-leaks-java/amp/
+
+The HI/LO Algorithm - Vlad  Mihalcea
+https://vladmihalcea.com/the-hilo-algorithm/
