@@ -1,0 +1,11 @@
+Richardson Maturity Model steps toward the glory of REST - Martin Fowler 
+https://martinfowler.com/articles/richardsonMaturityModel.html 
+
+How Memory Leaks Happen in a Java Application - Eugen Paraschiv
+https://stackify.com/memory-leaks-java/amp/
+
+The HI/LO Algorithm - Vlad  Mihalcea
+https://vladmihalcea.com/the-hilo-algorithm
+
+Don't Be Scared of git rebase - Nathan LeClaire
+https://nathanleclaire.com/blog/2014/09/14/dont-be-scared-of-git-rebase/
