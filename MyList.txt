@@ -9,3 +9,6 @@ https://vladmihalcea.com/the-hilo-algorithm
 
 Don't Be Scared of git rebase - Nathan LeClaire
 https://nathanleclaire.com/blog/2014/09/14/dont-be-scared-of-git-rebase/
+
+Why you should stop using Git rebase - Fredrik V. Mørken
+https://medium.com/@fredrikmorken/why-you-should-stop-using-git-rebase-5552bee4fed1
