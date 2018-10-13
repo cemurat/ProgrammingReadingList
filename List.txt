@@ -18,3 +18,6 @@ https://www.yegor256.com/2014/06/09/objects-should-be-immutable.html
 
 Why NULL is Bad? - Yegor Bugayenko
 https://www.yegor256.com/2014/05/13/why-null-is-bad.html
+
+Microservices Authentication and Authorization Solutions - Mina Ayoub
+https://medium.com/tech-tajawal/microservice-authentication-and-authorization-solutions-e0e5e74b248a
