@@ -17,3 +17,6 @@
 >* [Microservices Authentication and Authorization Solutions - Mina Ayoub](https://medium.com/tech-tajawal/microservice-authentication-and-authorization-solutions-e0e5e74b248a)
 
 >* [Microservice Mimari’ler İçin Yol Haritası - Suat KÖSE](https://medium.com/devopsturkiye/microservice-mimariler-i%CC%87%C3%A7in-yol-haritas%C4%B1-6e9fb0e9e2df)
+
+>* [Nginx nedir? Nerede kullanılır? - Yavuz Selim Bilgin](https://medium.com/bilgin-pro-labs/nginx-nedir-nerede-kullan%C4%B1l%C4%B1r-2c7996a4d0d9)
+
