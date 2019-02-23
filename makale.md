@@ -20,3 +20,5 @@
 
 >* [Nginx nedir? Nerede kullanılır? - Yavuz Selim Bilgin](https://medium.com/bilgin-pro-labs/nginx-nedir-nerede-kullan%C4%B1l%C4%B1r-2c7996a4d0d9)
 
+>* [Don’t assign static references to instance method calls in Java - Patrick Brown](https://medium.com/kineticdial/dont-assign-method-calls-to-static-values-in-java-35563304fc4d)
+
