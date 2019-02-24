@@ -22,3 +22,4 @@
 
 >* [Don’t assign static references to instance method calls in Java - Patrick Brown](https://medium.com/kineticdial/dont-assign-method-calls-to-static-values-in-java-35563304fc4d)
 
+>* [Pair Programlamanın Götürdükleri - Tarik Guney](https://medium.com/@atarikguney/pair-programlaman%C4%B1n-g%C3%B6t%C3%BCrd%C3%BCkleri-9edb3cf2889)
