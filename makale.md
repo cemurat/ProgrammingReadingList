@@ -26,5 +26,8 @@
 
 >* [OAuth is Not Authentication - Scott Brady](https://www.scottbrady91.com/OAuth/OAuth-is-Not-Authentication)
 
+>* [HTTP doğrulama metodları nelerdir-1 ? - Gökhan Şengün](https://medium.com/@gokhansengun/http-do%C4%9Frulama-metodlar%C4%B1-nelerdir-1-fdf3ff5dcac3)
+
+
 
 
