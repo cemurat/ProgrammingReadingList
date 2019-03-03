@@ -28,6 +28,10 @@
 
 >* [HTTP doğrulama metodları nelerdir-1 ? - Gökhan Şengün](https://medium.com/@gokhansengun/http-do%C4%9Frulama-metodlar%C4%B1-nelerdir-1-fdf3ff5dcac3)
 
+>* [Yazılımda Başlamak ve Gelişmek ? - Bilgem Çakır](https://medium.com/@bilgemcakir/yaz%C4%B1l%C4%B1mda-ba%C5%9Flamak-ve-geli%C5%9Fmek-e41a2ef5d0)
+
+>* [Mutual Authentication nedir ve nerelerde kullanılır ? - Gökhan Şengün](https://medium.com/@gokhansengun/mutual-authentication-nedir-ve-nerelerde-kullan%C4%B1l%C4%B1r-c1b8e1473234)
+
 
 
 
