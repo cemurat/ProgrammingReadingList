@@ -32,6 +32,11 @@
 
 >* [Mutual Authentication nedir ve nerelerde kullanılır ? - Gökhan Şengün](https://medium.com/@gokhansengun/mutual-authentication-nedir-ve-nerelerde-kullan%C4%B1l%C4%B1r-c1b8e1473234)
 
+>* [SSH Tunneling nedir ve nerelerde kullanılır ? - Gökhan Şengün](https://medium.com/@gokhansengun/ssh-tunneling-nedir-ve-nerelerde-kullan%C4%B1l%C4%B1r-2e2377c3e861)
+
+>* [Avoiding Interface Pollution with the Interface Segregation Principle - Severin Perez](https://medium.com/@severinperez/avoiding-interface-pollution-with-the-interface-segregation-principle-5d3859c21013)
+
+>* [Microservice Mimari’lerde Transaction Yönetimi Nasıl Yapılır? - Suat KÖSE](https://medium.com/devopsturkiye/microservice-mimarilerde-transaction-y%C3%B6netimi-nas%C4%B1l-yap%C4%B1l%C4%B1r-228317e248ed)
 
 
 
