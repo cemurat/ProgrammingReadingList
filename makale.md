@@ -38,5 +38,7 @@
 
 >* [Microservice Mimari’lerde Transaction Yönetimi Nasıl Yapılır? - Suat KÖSE](https://medium.com/devopsturkiye/microservice-mimarilerde-transaction-y%C3%B6netimi-nas%C4%B1l-yap%C4%B1l%C4%B1r-228317e248ed)
 
+>* [Three-Way Merging: A Look Under the Hood - Pablo Santos](http://www.drdobbs.com/tools/three-way-merging-a-look-under-the-hood/240164902?pgno=1)
 
+>* [Rebasing a complex branch in Git - Tom de Bruijn](https://blog.appsignal.com/2016/09/27/git-rebasing-strategies.html
 
