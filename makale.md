@@ -42,3 +42,4 @@
 
 >* [Rebasing a complex branch in Git - Tom de Bruijn](https://blog.appsignal.com/2016/09/27/git-rebasing-strategies.html)
 
+>* [Microservice Mimari’lerde Loglama - Suat KÖSE](https://medium.com/devopsturkiye/microservice-mimarilerde-loglama-958fd86ca48b)
