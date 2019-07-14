@@ -50,3 +50,4 @@
 
 >* [TDD Changed My Life - Eric Elliott](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
 
+>* [Ten Principles for Growth as an Engineer - Dan Heller](https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b)
