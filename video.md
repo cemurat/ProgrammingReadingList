@@ -4,3 +4,6 @@
 
 >* [SOLID Principles of Object Oriented and Agile Design - Bob Martin ](https://www.youtube.com/watch?v=d20ol4iJwNM)
 
+>* [Microservices Security with Spring - Adib Saikali ](https://www.youtube.com/watch?v=cKjgkNt-tFg)
+
+

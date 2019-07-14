@@ -43,3 +43,10 @@
 >* [Rebasing a complex branch in Git - Tom de Bruijn](https://blog.appsignal.com/2016/09/27/git-rebasing-strategies.html)
 
 >* [Microservice Mimari’lerde Loglama - Suat KÖSE](https://medium.com/devopsturkiye/microservice-mimarilerde-loglama-958fd86ca48b)
+
+>* [API Security: Deep Dive into OAuth and OpenID Connect - Travis Spencer](https://nordicapis.com/api-security-oauth-openid-connect-depth/)
+
+>* [Java has Streams. Do we need third-party collections? - Craig Motlin](https://medium.com/@motlin/java-has-streams-do-we-need-third-party-collections-dd12f473d105)
+
+>* [TDD Changed My Life - Eric Elliott](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
+
