@@ -56,3 +56,6 @@
 
 >* [Unit Testing Anti-Patterns, Full List - Yegor Bugayenko](https://www.yegor256.com/2018/12/11/unit-testing-anti-patterns.html)
 
+>* [Patterns for Managing Source Code Branches - Martin Fowler](https://martinfowler.com/articles/branching-patterns.html)
+
+>* [SelfTestingCode - Martin Fowler](https://martinfowler.com/bliki/SelfTestingCode.html)
